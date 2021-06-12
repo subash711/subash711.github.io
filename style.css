@@ -11,5 +11,5 @@ body{
   text-transform: uppercase;
   border-top: 1px solid #dddd;
   border-bottom: 1px solid #dddd;
-  background-color: rbga(0,0,0,0.1);
+  background-color: rbga(0,0,0, 0.1)
 }
